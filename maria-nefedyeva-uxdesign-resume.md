@@ -53,11 +53,11 @@ MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 - Company’s website design team member.
 
 ## tools and technologies
-Adobe Creative Suite: Photoshop, Illustrator, InDesign, Dreamweaver
-Sketch + InVision
-HTML/CSS
-Responsive design
-MS Office
+- Adobe Creative Suite: Photoshop, Illustrator, InDesign, Dreamweaver
+- Sketch + InVision
+- HTML/CSS
+- Responsive design
+- MS Office
 
 
 ## education | training
