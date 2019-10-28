@@ -5,7 +5,7 @@
 
 ## In love with Digital Design!
 
-**-problem solving-**  passionate about solving real problems for real people | use design thinking methodology for creative problem solving
+**-problem solving-**  passionate about solving real problems for real people | using design thinking methodology for creative problem solving
 
 **-graphic design-** digital and print | experienced with typography, color, composition, layout, greed structures
 
@@ -21,7 +21,7 @@ Costco Wholesale, Issaquah WA | 01/2018 - Present
 Insight Global for Costco Wholesale | 09/2017 -01/2018
 
 - Create pleasant cross platform digital shopping experience for Costco customers through website, mobile app and e-mails while maintaining corporate style and consistency.
-- Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns. Work independently to drive the assigned project to featured area.
+- Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns. 
 - Contribute to team efforts on improving web accessibility and meeting WCAG Level AA standards.
 - Enjoy a creative iterative process in fast-paced work environment
 - Accurately plan, prioritize and estimate assigned work under constant deadline constraints. Manage multiple projects with vary deadlines.
@@ -31,14 +31,14 @@ Insight Global for Costco Wholesale | 09/2017 -01/2018
 
 -   Start with team brainstorming of initial concept.
 -   Conduct basic user and market research, develop personas and user flows in collaboration with Job-Chat team.
--   Start ideation phase. Present and defend design decisions to the team. Iterate design with team feedback. Work on developing style guide.
+-   Start ideation phase. Present design decisions to the team and defend them. Iterate design with team's feedback. Work on developing style guide.
 -   Work on implementing Material Design System for UI in collaboration with software engineers. 
 
 **Business Owner | Art Educator | Graphic Designer**
 MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 
--  Founded [Art&Fly Studio ](http://artandfly.com/)  with a vision to help an average person manifest creative potential. Developed 4 levels of silk painting workshops that guided in finding an artist within a person with no artistic training. During three years it brought in over 600 students.
--  Designed brand assets and marketing materials for clients and own business.
+-  Founded [Art&Fly Studio ](http://artandfly.com/)  with a vision to help an average person manifest creative potential. Developed 4 levels of silk painting workshops that guided in finding an artist within a person with no artistic training. Served over 600 students in 3 years.
+-  Designed brand assets and marketing materials.
 
 **Graphic Designer**
 [IBA Group](http://ibagroupit.com/), Minsk Belarus  | 05/1999 - 08/2007
