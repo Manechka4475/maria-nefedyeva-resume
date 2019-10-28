@@ -38,7 +38,10 @@ Insight Global for Costco Wholesale | 09/2017 -01/2018
 MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 
 -  Founded [Art&Fly Studio ](http://artandfly.com/)  with a vision to help an average person manifest creative potential. Developed 4 levels of silk painting workshops that guided in finding an artist within a person with no artistic training. Served over 600 students in 3 years.
--  Designed brand assets and marketing materials.
+-  Designed and implemented responsive website, integrated it with payPal.
+-  Designed brand assets and marketing materials for my business.
+-  Worked on responsive website redesign, created visual identity and marketing materials for LaVida Dance Studio.
+
 
 **Graphic Designer**
 [IBA Group](http://ibagroupit.com/), Minsk Belarus  | 05/1999 - 08/2007
@@ -47,12 +50,14 @@ MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 - Collaborated and independently delivered enterprise design solutions that met business and brand objectives, customer needs, and design principles while respecting time, budget, and technical considerations.
 - Was responsible for design, production and quality of IBA Group marketing materials for US and Europe in collaboration with B2B marketing team.
 - Presented and defended design decisions to executive management.
-- Team member for the company’s website design.
+- Company’s website design team member.
 
-## tools
+## tools and technologies
 Adobe Creative Suite: Photoshop, Illustrator, InDesign, Dreamweaver
 Sketch + InVision
 HTML/CSS
+Responsive design
+MS Office
 
 
 ## education | training
