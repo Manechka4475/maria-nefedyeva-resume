@@ -1,5 +1,6 @@
 ﻿# Maria Nefedyeva
-**portfolio: [marianefedyeva.com](http://marianefedyeva.com/)**
+**Visit my [PORTFOLIO](http://banin.net/maria-nefedyeva-portfolio)**
+
 **email: <mnefedyeva@gmail.com>** 
 **phone: +1 425-449-2018**
 
