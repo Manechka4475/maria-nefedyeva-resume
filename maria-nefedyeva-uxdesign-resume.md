@@ -21,7 +21,7 @@
   Costco Wholesale, Issaquah WA | 09/2017 - Present
 
 - Create enjoyable cross platform digital shopping experience for Costco customers through website, mobile app and e-mails while maintaining corporate style and consistency.
-- Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns .
+- Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns.
 - Contribute to team efforts on improving web accessibility and meeting WCAG Level AA standards.
 - Enjoy a creative iterative process in fast-paced work environment.
 - Accurately plan, prioritize and estimate assigned work under constant deadline constraints. Manage multiple projects with varying deadlines.
