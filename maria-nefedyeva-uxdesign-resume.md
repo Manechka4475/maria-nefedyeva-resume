@@ -24,7 +24,7 @@
 - Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns .
 - Contribute to team efforts on improving web accessibility and meeting WCAG Level AA standards.
 - Enjoy a creative iterative process in fast-paced work environment.
-- Accurately plan, prioritize and estimate assigned work under constant deadline constraints. Manage multiple projects with vary deadlines.
+- Accurately plan, prioritize and estimate assigned work under constant deadline constraints. Manage multiple projects with varying deadlines.
 
 **UX Designer | Side Project**
 [job-chat.com](http://job-chat.com/) | 07/2019 - Present
