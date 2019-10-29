@@ -18,8 +18,7 @@
 
 ## experience
 **Graphic Designer | [Costco](http://costco.com/) E-commerce Marketing**
-  Costco Wholesale, Issaquah WA | 01/2018 - Present
-  Insight Global for Costco Wholesale | 09/2017 -01/2018
+  Costco Wholesale, Issaquah WA | 09/2017 - Present
 
 - Create enjoyable cross platform digital shopping experience for Costco customers through website, mobile app and e-mails while maintaining corporate style and consistency.
 - Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns. 
