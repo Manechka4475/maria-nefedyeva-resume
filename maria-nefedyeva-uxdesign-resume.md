@@ -14,7 +14,7 @@
 
 **-marketing-** e-commerce | emails | landing pages | digital marketing campaigns | B2B | B2C
 
-**-ux design-** work on transforming my career into digital product | ux design
+**-ux design-** at the turning point of transforming my career to ux design
 
 ## experience
 **Graphic Designer | [Costco](http://costco.com/) E-commerce Marketing**
