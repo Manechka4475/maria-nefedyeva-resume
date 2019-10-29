@@ -21,9 +21,9 @@
   Costco Wholesale, Issaquah WA | 09/2017 - Present
 
 - Create enjoyable cross platform digital shopping experience for Costco customers through website, mobile app and e-mails while maintaining corporate style and consistency.
-- Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns. 
+- Collaborate with Design and Marketing teams to constantly enhance the effectiveness of promotions and campaigns .
 - Contribute to team efforts on improving web accessibility and meeting WCAG Level AA standards.
-- Enjoy a creative iterative process in fast-paced work environment
+- Enjoy a creative iterative process in fast-paced work environment.
 - Accurately plan, prioritize and estimate assigned work under constant deadline constraints. Manage multiple projects with vary deadlines.
 
 **UX Designer | Side Project**
@@ -31,14 +31,13 @@
 
 -   Start with team brainstorming of initial concept.
 -   Conduct basic user and market research, develop personas and user flows in collaboration with Job-Chat team.
--   Start ideation phase. Present design decisions to the team and defend them. Iterate design with team's feedback. Work on developing style guide.
--   Work on implementing Material Design System for UI in collaboration with software engineers. 
+-   Start ideation phase, present design decisions to the team and defend them, iterate design with team's feedback, work on developing style guide.
+-   Work on implementing Material Design System for UI in collaboration with software engineers.
 
 **Business Owner | Art Educator | Graphic Designer**
 MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 
 -  Founded [Art&Fly Studio ](http://artandfly.com/)  with a vision to help an average person manifest creative potential. Developed 4 levels of silk painting workshops that guided in finding an artist within a person with no artistic training. Served over 600 students in 3 years.
--  Designed and implemented responsive website, integrated it with payPal.
 -  Designed brand assets and marketing materials for my business.
 -  Worked on responsive website redesign, created visual identity and marketing materials for LaVida Dance Studio.
 
