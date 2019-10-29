@@ -39,7 +39,7 @@ MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 
 -  Founded [Art&Fly Studio](http://artandfly.com/)  with a vision to help an average person manifest creative potential. Developed 4 levels of silk painting workshops that guided in finding an artist within a person with no artistic training. Served over 600 students in 3 years.
 -  Designed brand assets and marketing materials for my business.
--  Worked on responsive website redesign, created visual identity and marketing materials for [LaVida Dance Studio](https://lavidastudio.com/)
+-  Worked on responsive website redesign, created visual identity and marketing materials for [LaVida Dance Studio](http://banin.net/maria-nefedyeva-portfolio/lavida.html)
 
 
 **Graphic Designer**
