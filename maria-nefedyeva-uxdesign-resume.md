@@ -8,7 +8,7 @@
 
 **-problem solving-**  passionate about solving real problems for real people | using design thinking methodology for creative problem solving
 
-**-graphic design-** digital and print | experienced with typography, color, composition, layout, greed structures
+**-graphic design-** digital and print | experienced with typography, color, composition, layout, greed structures, hierarchy
 
 **-branding-** design brand identity | create and follow style guidelines | create on-brand solutions
 
