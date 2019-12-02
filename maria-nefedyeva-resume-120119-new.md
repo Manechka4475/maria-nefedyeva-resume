@@ -9,11 +9,12 @@
 
 **-problem solving-**  passionate about solving real problems for real people | using design thinking methodology for creative problem solving
 
-**-visual design-** experienced with typography, color, composition, layout, greed structures, hierarchy
+**-visual design-** experienced with style, typography, color, composition, layout, greed structures, hierarchy
 
 **-branding-** design brand identity | create and follow style guidelines | create on-brand solutions
 
-**-digital marketing design-** e-commerce | emails | landing pages | digital marketing campaigns | B2B | B2C
+**-digital marketing design-** e-commerce | digital marketing campaigns | email design | landing pages | B2B | B2C
+
 
 
 
@@ -35,11 +36,11 @@
 -   Start ideation phase, present design decisions to the team and defend them, iterate design with team's feedback, work on developing style guide.
 -   Work on implementing Material Design System for UI in collaboration with software engineers.
 
-**UX/UI Designer | Business owner**
+**UX/UI Designer | Business owner | Art Mentor**
 MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 
--  Founded [Art&Fly Studio ](http://artandfly.com/)  with a vision to help an average person manifest creative potential. Developed 4 levels of silk painting workshops that guided in finding an artist within a person with no artistic training. During three years it brought in over 600 students.
--  Designed brand assets and marketing materials for clients and own business.
+- Founded [Art&Fly Studio](http://artandfly.com/) with a vision to help an average person manifest creative potential. Designed and coded responsive studio website, created visual identity, managed social media and marketing compains.
+- Worked on responsive website redesign, created visual identity and marketing materials for [LaVida Dance Studio](http://banin.net/maria-nefedyeva-portfolio/lavida.html)
 
 **Graphic Designer**
 [IBA Group](http://ibagroupit.com/), Minsk Belarus  | 05/1999 - 08/2007
