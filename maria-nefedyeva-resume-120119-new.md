@@ -39,7 +39,11 @@
 **UX/UI Designer | Business owner | Art Mentor**
 MN Art & Design Studio LLC, Greater Seattle Area | 05/2012 - 06/2017
 
-- Founded [Art&Fly Studio](http://artandfly.com/) with a vision to help an average person manifest creative potential. Designed and coded responsive studio website, created visual identity, managed social media and marketing compains.
+- UI/UX: designed and re-designed websites across multiple platforms including desktop, mobile and tablets
+- Branding: created brand experience from the ground up and re-designed existing brands
+- Marketing collateral: designed marketing materials for the client’s and my own business
+
+- Founded [Art&Fly Studio](http://artandfly.com/) with a vision to help an average person manifest creative potential. Designed and coded responsive studio website, created visual identity, managed social media and marketing campaigns.
 - Worked on responsive website redesign, created visual identity and marketing materials for [LaVida Dance Studio](http://banin.net/maria-nefedyeva-portfolio/lavida.html)
 
 **Graphic Designer**
