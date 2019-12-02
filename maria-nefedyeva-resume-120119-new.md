@@ -9,7 +9,7 @@
 
 **-problem solving-**  passionate about solving real problems for real people | using design thinking methodology for creative problem solving
 
-**-visual design-** experienced with style, typography, color, composition, layout, greed structures, hierarchy
+**-visual design-** experienced with style | typography | color | composition | layout | greed structures | hierarchy
 
 **-branding-** design brand identity | create and follow style guidelines | create on-brand solutions
 
