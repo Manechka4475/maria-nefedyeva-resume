@@ -5,7 +5,7 @@
 
 ## In love with Digital Design!
 
-**-ux/ui design-** responsive web | mobile | user research | wireframing | hi-fi mochups |  prototyping | testing |  HTML/CSS 
+**-ux/ui design-** responsive web | mobile | user research | wireframing | hi-fi mochups | prototyping | testing | web accessibility | HTML/CSS 
 
 **-problem solving-**  passionate about solving real problems for real people | using design thinking methodology for creative problem solving
 
